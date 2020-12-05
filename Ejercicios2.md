@@ -19,3 +19,16 @@
  3. `git add .` Añadimos 
  4. `git commit -m"Añadida primera referencia bibliografica"` Comiteamos
  5. Mostramos historial `git log --graph --all --oneline`
+
+## Ejercicio 4
+
+ 1. `git checkout master` vamos a la rama master
+    `git merge bibliografia` Fusionamos la rama bibliografia
+ 2. Mostramos el historial `git log --graph --all --oneline`.
+ 3. `git branch -d bibliografia` Borramos la rama bibliografia.
+ 4. Mostramos el historial `git log --graph --all --oneline`.
+
+## Ejercicio 5
+
+1. `git branch bibliografia`
+2. `git checkout bibliografia`
